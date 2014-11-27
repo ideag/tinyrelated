@@ -6,7 +6,7 @@ Text Domain: tinyrelated
 Domain Path: /languages
 Description: A tiny and simple related posts plugin.
 Author: Arūnas Liuiza
-Version: 1.0.0
+Version: 1.0.1
 Author URI: http://klausk.aruno.lt/
 License: GPL2
 

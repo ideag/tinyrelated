@@ -3,7 +3,7 @@ Contributors: ideag
 Tags: related posts, widget, shortcode, related
 Requires at least: 3.9.0
 Tested up to: 4.0.1
-Stable tag: 1.0.0
+Stable tag: 1.0.1
 License: GPLv2
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 Donate link: http://kava.tribuna.lt/en/
