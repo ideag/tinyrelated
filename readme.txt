@@ -6,6 +6,7 @@ Tested up to: 4.0.1
 Stable tag: 1.0.0
 License: GPLv2
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
+Donate link: http://kava.tribuna.lt/en/
 
 A tiny and simple plugin to manually assign and display related posts.
 
@@ -16,6 +17,14 @@ A tiny and simple hackable plugin to **manually** assign and display related pos
 You can pick up to 10 related posts via a meta box in `Edit Post` window. If no posts were selected, there is an option to display random posts instead. *Currently, there is no automatic generation of related posts*.
 
 The plugin is translation ready and has Lithuanian translation.
+
+Also try out my other plugins:
+* [Gust](http://tiny.lt/gust) - a Ghost-like admin panel for WordPress, featuring Markdown based split-view editor.
+* [tinyCoffee](http://tiny.lt/tinycoffee) - a PayPal donations button with a twist. Ask people to treat you to a coffee/beer/etc. 
+* [tinyTOC](http://tiny.lt/tinytoc) - automatic Table of Contents, based on H1-H6 headings in post content.
+* [tinyIP](http://tiny.lt/tinyip) - *Premium* - stop WordPress users from sharing login information, force users to be logged in only from one device at a time.
+
+An enormous amount of coffee was consumed while developing these plugins, so if you like what you get, please consider treating me to a [cup](http://kava.tribuna.lt/en/). Or two. Or ten.
 
 == Installation ==
 
@@ -29,7 +38,12 @@ The plugin is translation ready and has Lithuanian translation.
 
 Not at the moment. If no posts are picked manually, it will show **random** posts by default (can be turned off in Settings).
 
+== Screenshots ==
+
+1. Related Posts picker metabox in Post editor.
+2. Settings screen.
+
 == Changelog ==
 
-= 0.12 =
+= 1.0.0 =
 * Initial submission to wordpress.org
