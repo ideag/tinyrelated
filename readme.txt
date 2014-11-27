@@ -19,6 +19,7 @@ You can pick up to 10 related posts via a meta box in `Edit Post` window. If no 
 The plugin is translation ready and has Lithuanian translation.
 
 Also try out my other plugins:
+
 * [Gust](http://tiny.lt/gust) - a Ghost-like admin panel for WordPress, featuring Markdown based split-view editor.
 * [tinyCoffee](http://tiny.lt/tinycoffee) - a PayPal donations button with a twist. Ask people to treat you to a coffee/beer/etc. 
 * [tinyTOC](http://tiny.lt/tinytoc) - automatic Table of Contents, based on H1-H6 headings in post content.
